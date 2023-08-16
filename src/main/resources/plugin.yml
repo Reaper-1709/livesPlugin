@@ -1,0 +1,4 @@
+name: livesPlugin
+version: '${project.version}'
+main: me.reaper_17.livesplugin.LivesPlugin
+api-version: 1.19
